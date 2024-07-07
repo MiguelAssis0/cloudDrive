@@ -1,0 +1,40 @@
+.pessoal__body__recomendations {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.pessoal__body > p {
+    padding: 20px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #ccc;
+}
+
+.pessoal__body__actions {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.pessoal__body__actions form, .pessoal__body__actions .folders__folder {
+    box-shadow: 0 0 10px #ccc;
+    background-color: white;
+    padding: 15px 25px;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+}
+
+.pessoal__body__actions form label{
+    cursor: pointer;
+}
+
+.pessoal__body__actions form:hover, .pessoal__body__actions .folders__folder:hover {
+    box-shadow: 0 0 15px #ccc;
+}
