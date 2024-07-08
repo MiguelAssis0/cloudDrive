@@ -1,8 +1,10 @@
-#DOCUMENTAÇÃO
+# DOCUMENTAÇÃO
 
 Esse projeto é um software de armazenamento em nuvem criado com as tecnologias React (utilizando bibliotecas como o react router dom e o react icons) e com o firebase. Nesse projeto o usuário pode criar uma conta com login do google. Ao fazer login, o usuário entrará em uma página onde ele poderá adicionar, excluir ou fazer o download de um arquivo, além de possuir uma pesquisa dinâmica dos arquivos que atualiza em tempo real conforme o digitado.
 
 Aprendizagem: com esse projeto, foi possível adquirir conhecimentos sobre o react (sistemas de rotas, hooks, importação de arquivos, ligar o firebase com o frontend, validação de autenticação) e firebase (autenticação, crud e salvamento de arquivos e regras de segurança).
+
+Link do projeto no ar: https://cloud-drive-tan.vercel.app
 
 # Getting Started with Create React App
 
