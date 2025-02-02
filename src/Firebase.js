@@ -13,7 +13,7 @@ import { getStorage, ref as storageRef, uploadBytes, getDownloadURL, uploadBytes
 const firebaseConfig = {
   apiKey: process.env.API_KEY,
   authDomain: process.env.AUTH_DOMAIN,
-  projectId: process.env.PROJECT_ID,
+  projectId: "app-nuvem",
   storageBucket: process.env.STORAGE_BUCKET,
   messagingSenderId: process.env.MESSAGING_SENDER_ID,
   appId: process.env.APP_ID,
