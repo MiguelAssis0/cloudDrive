@@ -11,13 +11,13 @@ import { getStorage, ref as storageRef, uploadBytes, getDownloadURL, uploadBytes
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: process.env.API_KEY,
-  authDomain: process.env.AUTH_DOMAIN,
+  apiKey: "AIzaSyCSwOiBz3Su_tLaCgbbAjbUbsnxbXx1biQ",
+  authDomain: "app-nuvem.firebaseapp.com",
   projectId: "app-nuvem",
-  storageBucket: process.env.STORAGE_BUCKET,
-  messagingSenderId: process.env.MESSAGING_SENDER_ID,
-  appId: process.env.APP_ID,
-  measurementId: process.env.MEASUREMENT_ID
+  storageBucket: "app-nuvem.appspot.com",
+  messagingSenderId: "60181340369",
+  appId: "1:60181340369:web:bffd818fae7ff2a243e5f0",
+  measurementId: "G-DVSVEX21YF"
 };
 
 // Initialize Firebase
